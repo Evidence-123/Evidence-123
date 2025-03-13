@@ -3,6 +3,7 @@
 I'm a young girl whose passionate about solving real-world problems and creating that one thing that can change the world.
  Whether it's designing creative graphics, building websites, or writing books, I'm always exploring new ideas!  interested in coding,web-development, UI/UX, poster, logo and flyer designing,
  i'm also pretty much interested in AI.
+ 
 
   
   🌱 Currently learning
